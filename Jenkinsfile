@@ -1,6 +1,4 @@
 pipeline {
-  //rojo
-  //hari
   agent any
   stages {
     stage('Test') {
