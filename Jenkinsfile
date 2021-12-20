@@ -1,4 +1,5 @@
 pipeline {
+  //rojo
   agent any
   stages {
     stage('Test') {
